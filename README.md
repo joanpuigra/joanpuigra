@@ -1,5 +1,4 @@
 ### Education Account
----
 JAVA, C#, Python, Android, PHP
 
 <!--
