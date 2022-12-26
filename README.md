@@ -1,5 +1,8 @@
-### Education Account
+**Junior Developer**
+
 JAVA, C#, Python, Android, PHP
+
+🌱 I'm learning **Python** and doing a **Certificate of Higher Education (HNC) or DAM in spain**  while i work in [Avannubo](https://avannubo.com/) creating an API for 
 
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
