@@ -1,6 +1,8 @@
 ### Education Account
 JAVA, C#, Python, Android, PHP
 
+### Work
+Working on **Avannubo** doing API back-end programming in Python.
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
