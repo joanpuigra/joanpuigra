@@ -2,7 +2,8 @@
 JAVA, C#, Python, Android, PHP
 
 ### Work
-Working on **Avannubo** doing API back-end programming in Python.
+Working on **Avannubo**.
+Back-end developer - FastAPI and Piccolo ORM - Python
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
