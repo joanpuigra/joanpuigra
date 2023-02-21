@@ -1,10 +1,12 @@
-### Education Account
-JAVA, C#, Python, Android, PHP
+### Languages
+- 📚 **Studying and working:** Python
+  - 🎮 **PyGame:** College project
+- 🌱 JAVA, C#, Android, PHP
 
 ### Work
-Working on **Avannubo**
-Python Back-End Developer
-FastAPI & Piccolo ORM
+- 💼 Working on **Avannubo**
+- 🐍 Python Back-End Developer
+- 🔰 FastAPI and Piccolo ORM
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
