@@ -7,6 +7,7 @@
 - 💼 Working on **Avannubo**
 - 🐍 Python Back-End Developer
 - 🔰 FastAPI and Piccolo ORM
+- 📂 Modules for Odoo CRM
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
