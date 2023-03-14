@@ -4,10 +4,10 @@
 - 🌱 JAVA, C#, Android, PHP
 
 ### Work
-- 💼 Working on **Avannubo**
+- 💼 Working on [Avannubo](https://avannubo.com/)
 - 🐍 Python Back-End Developer
 - 🔰 FastAPI and Piccolo ORM
-- 📂 Modules for Odoo CRM
+- 📂 Modules for Odoo ERP/CRM
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
