@@ -1,13 +1,24 @@
-### Languages
-- 📚 **Studying and working:** Python
-  - 🎮 **PyGame:** College project
-- 🌱 JAVA, C#, Android, PHP
+🐍 **Python** Back-End Developer
+
+### 📚 Knowledge
+🐍 Python
+- 🎮 **PyGame:** College project (WIP)
+- 🌱 JAVA, C#, Android, PHP, HTML/CSS
+- 📀 OracleSQL/PLSQL, PostgreSQL, SQLite, MongoDB
 
 ### Work
-- 💼 Working on [Avannubo](https://avannubo.com/)
-- 🐍 Python Back-End Developer
+💼 Working on [Avannubo](https://avannubo.com/)
 - 🔰 FastAPI and Piccolo ORM
 - 📂 Modules for Odoo ERP/CRM
+
+### 📒 To learn
+- Swift (iOS user)
+- Kotlin
+- Flask
+- Django
+- PyGame (WIP)
+  
+
 <!--
 **Joanpuigra/joanpuigra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
