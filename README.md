@@ -7,7 +7,7 @@
 - 📀 OracleSQL/PLSQL, PostgreSQL, SQLite, MongoDB
 
 ### Work
-💼 Working on [Avannubo](https://avannubo.com/)
+💼 Worked on [Avannubo](https://avannubo.com/) (no longer working there)
 - 🔰 FastAPI and Piccolo ORM
 - 📂 Modules for Odoo ERP/CRM
 
