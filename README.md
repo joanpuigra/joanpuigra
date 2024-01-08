@@ -1,18 +1,60 @@
-🐍 **Python** Back-End Developer
+# Full-Stack Developer
+Interested on development with Python, JS, Swift but i can adapt to any language.
 
-### 📚 Knowledge
-- 🐍 Python
-- 🎮 **PyGame:** College project (WIP)
-- 🌱 JAVA, C#, Android, PHP, HTML/CSS
-- 📀 OracleSQL/PLSQL, PostgreSQL, SQLite, MongoDB
+Studying about new ways to implement **Artificial Intelligence** to current workflows, for now just doing some tests with **ChatGTP** and **Stable Diffusion** for "art".
 
-### Work
+
+# 📚 Knowledge
+## 🐍 Languages
+- Python
+- JAVA
+- C#
+- Android
+- PHP
+- HTML/CSS
+- JS
+
+## 📀 Databases
+-  OracleSQL/PLSQL
+-  PostgreSQL
+-  SQLite
+-  MongoDB
+-  MySQL
+
+# Frameworks
+## Front-End
+- Tailwind
+- Bootstrap
+- Wordpress
+
+## Back-End
+- FastAPI
+- _Learning React_
+
+# Videogame Development
+- 🕹️ Unity
+- 🎮 **PyGame:** College project
+
+# Tools
+- Jetbrains IDE
+- Visual Studio Code
+- XCode
+- Git / Github / Bitbucket
+- Figma
+- Jira / Confluence
+- Arduino / RaspberryPi
+- Docker
+
+# Work
+## Avannubo
 💼 Worked on [Avannubo](https://avannubo.com/) (no longer working there)
 - 🔰 FastAPI and Piccolo ORM
 - 📂 Modules for Odoo ERP/CRM
 
-### 📒 To learn
-- PyGame (WIP)
+## School Laia / Tabor
+- Did some work for both schools, but mostly TIC department and web development for the later.
+
+## 📒 To learn
 - Swift (iOS user)
-- Kotlin
-- Flask / Django
+- Kotlin for Android development
+- Flask / Django / Pyscript (out of curiosity)
