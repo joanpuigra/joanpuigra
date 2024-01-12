@@ -1,5 +1,5 @@
 # Full-Stack Developer
-Interested on development with Python, JS, Swift but i can adapt to any language.
+Interested on development with Python, JS and Swift but i can adapt to any language.
 
 Studying about new ways to implement **Artificial Intelligence** to current workflows, for now just doing some tests with **ChatGTP** and **Stable Diffusion** for "art".
 
