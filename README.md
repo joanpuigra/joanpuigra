@@ -1,8 +1,7 @@
 # Full-Stack Developer
 Interested on development with Python, JS and Swift but i can adapt to any language.
 
-Studying about new ways to implement **Artificial Intelligence** to current workflows, for now just doing some tests with **ChatGTP** and **Stable Diffusion** for "art".
-
+Studying about new ways to implement **Artificial Intelligence** to current workflows, for now just doing some tests with **Stable Diffusion** for "art".
 
 # 📚 Knowledge
 ## 🐍 Languages
@@ -21,19 +20,26 @@ Studying about new ways to implement **Artificial Intelligence** to current work
 -  MongoDB
 -  MySQL
 
+### API
+-  FastAPI
+-  Express
+
 # Frameworks
-## Front-End
 - Tailwind
 - Bootstrap
 - Wordpress
+- React
+- Angular
+- Laravel
 
-## Back-End
-- FastAPI
-- _Learning React_
+# CSS
+- Bootstrap
+- Tailwind
 
 # Videogame Development
 - 🕹️ Unity
-- 🎮 **PyGame:** College project
+- 🎮 PyGame
+- 🔺 Canvas
 
 # Tools
 - Jetbrains IDE
