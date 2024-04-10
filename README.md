@@ -1,17 +1,34 @@
 # Full-Stack Developer
-Interested on development with Python, JS and Swift but i can adapt to any language.
+Interested in development with **Python**, **Javascript** and **Swift** but i can adapt to any language. I'm really curious about **Artificial Intelligence** and **Game Development**.
 
-Studying about new ways to implement **Artificial Intelligence** to current workflows, for now just doing some tests with **Stable Diffusion** for "art".
+Worked with **Stable Diffusion** to generate "art".
 
 # 📚 Knowledge
 ## 🐍 Languages
-- Python
-- JAVA
-- C#
-- Android
-- PHP
+
+### Front-End 
 - HTML/CSS
-- JS
+- JavaScript
+
+### Back-End
+- PHP
+- Python
+- C#
+- JAVA
+
+## Frameworks
+- React
+- Angular
+- Laravel
+
+## API
+-  FastAPI
+-  Express
+
+## CSS
+- Bootstrap
+- Tailwind
+- DaisyUI
 
 ## 📀 Databases
 -  OracleSQL/PLSQL
@@ -19,29 +36,19 @@ Studying about new ways to implement **Artificial Intelligence** to current work
 -  SQLite
 -  MongoDB
 -  MySQL
+-  Microsoft SQL Server
 
-### API
--  FastAPI
--  Express
+## Mobile
+- Android
+- iOS
 
-# Frameworks
-- Tailwind
-- Bootstrap
-- Wordpress
-- React
-- Angular
-- Laravel
-
-# CSS
-- Bootstrap
-- Tailwind
-
-# Videogame Development
+## Videogame Development
 - 🕹️ Unity
 - 🎮 PyGame
 - 🔺 Canvas
+- PixiJS
 
-# Tools
+## Tools
 - Jetbrains IDE
 - Visual Studio Code
 - XCode
@@ -52,15 +59,10 @@ Studying about new ways to implement **Artificial Intelligence** to current work
 - Docker
 
 # Work
+## School Laia / Tabor
+- Did some work for both schools, but mostly TIC department and web development for the later.
+
 ## Avannubo
 💼 Worked on [Avannubo](https://avannubo.com/) (no longer working there)
 - 🔰 FastAPI and Piccolo ORM
 - 📂 Modules for Odoo ERP/CRM
-
-## School Laia / Tabor
-- Did some work for both schools, but mostly TIC department and web development for the later.
-
-## 📒 To learn
-- Swift (iOS user)
-- Kotlin for Android development
-- Flask / Django / Pyscript (out of curiosity)
