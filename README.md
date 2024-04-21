@@ -6,18 +6,18 @@ Worked with **Stable Diffusion** to generate "art".
 # 📚 Knowledge
 ## 🐍 Languages
 
-### Front-End 
+### 👻 Front-End 
 - HTML/CSS
 - JavaScript
 - TypeScript
 
-### Back-End
-- PHP
-- Python
-- C#
-- JAVA
+### ☠️ Back-End
+- 🐘 PHP
+- 🐍 Python
+- #️⃣ C#
+- ☕️ JAVA
 
-## Frameworks
+## ✳️ Frameworks
 - 💠 React
 - 🔶 Angular
 - ♦️ Laravel
@@ -35,29 +35,28 @@ Worked with **Stable Diffusion** to generate "art".
 -  OracleSQL/PLSQL
 -  PostgreSQL
 -  SQLite
--  MongoDB
+-  🍃 MongoDB
 -  MySQL
 -  Microsoft SQL Server
 
-## Mobile
-- Android
-- iOS
+## 📱 Mobile
+- 🤖 Android
+- 🍎 iOS
 
-## Videogame Development
+## 🎮 Videogame Development
 - 🕹️ Unity
 - 🎮 PyGame
 - 🔺 Canvas
 - Phaser
 
-## Tools
+## 🧰 Tools
 - Jetbrains IDE
 - Visual Studio Code
-- XCode
-- Git / Github / Bitbucket
-- Figma
-- Jira / Confluence
-- Arduino / RaspberryPi
-- Docker
+- 🐈‍⬛ Git / Github / Bitbucket
+- 🎨 Figma
+- ♾️ Jira / Confluence
+- 🎛️ Arduino / RaspberryPi
+- 🐳 Docker
 
 # Work
 ## School Laia / Tabor
