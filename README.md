@@ -58,11 +58,11 @@ Worked with **Stable Diffusion** to generate "art".
 - 🎛️ Arduino / RaspberryPi
 - 🐳 Docker
 
-# Work
-## School Laia / Tabor
-- Did some work for both schools, but mostly TIC department and web development for the later.
+# 🗂️ Work
+## 🏫 School Laia / Tabor
+- Mostly *TIC department* and *web development*
 
 ## Avannubo
-💼 Worked on [Avannubo](https://avannubo.com/) (no longer working there)
-- 🔰 FastAPI and Piccolo ORM
-- 📂 Modules for Odoo ERP/CRM
+- [Avannubo](https://avannubo.com/)
+	- 🔰 FastAPI and Piccolo ORM
+	- 📂 Modules for Odoo ERP/CRM
