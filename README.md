@@ -18,17 +18,17 @@ Worked with **Stable Diffusion** to generate "art".
 - JAVA
 
 ## Frameworks
-- React
-- Angular
-- Laravel
+- 💠 React
+- 🔶 Angular
+- ♦️ Laravel
 
-## API
--  FastAPI
--  Express
+## ⚡️ API
+-  🐍 FastAPI
+-  ⚡️ Express
 
 ## CSS
 - Bootstrap
-- Tailwind
+- 🌀Tailwind
 - DaisyUI
 
 ## 📀 Databases
