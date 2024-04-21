@@ -9,6 +9,7 @@ Worked with **Stable Diffusion** to generate "art".
 ### Front-End 
 - HTML/CSS
 - JavaScript
+- TypeScript
 
 ### Back-End
 - PHP
