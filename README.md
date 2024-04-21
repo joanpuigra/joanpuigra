@@ -64,5 +64,5 @@ Worked with **Stable Diffusion** to generate "art".
 
 ## Avannubo
 [Avannubo](https://avannubo.com/)
--🔰 FastAPI and Piccolo ORM
--📂 Modules for Odoo ERP/CRM
+- 🔰 FastAPI and Piccolo ORM
+- 📂 Modules for Odoo ERP/CRM
