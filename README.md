@@ -47,7 +47,7 @@ Worked with **Stable Diffusion** to generate "art".
 - 🕹️ Unity
 - 🎮 PyGame
 - 🔺 Canvas
-- PixiJS
+- Phaser
 
 ## Tools
 - Jetbrains IDE
