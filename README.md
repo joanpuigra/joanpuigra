@@ -63,6 +63,6 @@ Worked with **Stable Diffusion** to generate "art".
 - Mostly *TIC department* and *web development*
 
 ## Avannubo
-- [Avannubo](https://avannubo.com/)
-	- 🔰 FastAPI and Piccolo ORM
-	- 📂 Modules for Odoo ERP/CRM
+[Avannubo](https://avannubo.com/)
+- 🔰 FastAPI and Piccolo ORM
+- 📂 Modules for Odoo ERP/CRM
