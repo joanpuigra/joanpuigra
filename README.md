@@ -23,8 +23,9 @@ Worked with **Stable Diffusion** to generate "art".
 - ♦️ Laravel
 
 ## ⚡️ API
--  🐍 FastAPI
--  ⚡️ Express
+- 📍 RESTful
+- 🐍 FastAPI
+- ⚡️ Express
 
 ## CSS
 - Bootstrap
@@ -32,11 +33,11 @@ Worked with **Stable Diffusion** to generate "art".
 - DaisyUI
 
 ## 📀 Databases
--  OracleSQL/PLSQL
+-  OracleSQL / PLSQL
 -  PostgreSQL
 -  SQLite
 -  🍃 MongoDB
--  MySQL
+-  🐘 MySQL
 -  Microsoft SQL Server
 
 ## 📱 Mobile
@@ -47,11 +48,11 @@ Worked with **Stable Diffusion** to generate "art".
 - 🕹️ Unity
 - 🎮 PyGame
 - 🔺 Canvas
-- Phaser
+- 💥 Kaboom
 
 ## 🧰 Tools
-- Jetbrains IDE
-- Visual Studio Code
+- 🧠 Jetbrains IDE
+- 📘 Visual Studio Code
 - 🐈‍⬛ Git / Github / Bitbucket
 - 🎨 Figma
 - ♾️ Jira / Confluence
