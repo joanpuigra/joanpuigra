@@ -63,7 +63,7 @@ Worked with **Stable Diffusion** to generate "art".
 ## 🏫 School Laia / Tabor
 - Mostly *TIC department* and *web development*
 
-## Avannubo
+## ☎️ Avannubo
 [Avannubo](https://avannubo.com/)
 - 🔰 FastAPI and Piccolo ORM
 - 📂 Modules for Odoo ERP/CRM
