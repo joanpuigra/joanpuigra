@@ -1,5 +1,5 @@
 # Full-Stack Developer
-<!-- Interested in development with **Python**, **Javascript** and **Swift** but i can adapt to any language. I'm really curious about **Artificial Intelligence** and **Game Development**. -->
+## This page needs a **rework**, doing that after ending my studies. Doing a master on **videogame development**.
 
 # 📚 Knowledge
 ## 🐍 Languages
