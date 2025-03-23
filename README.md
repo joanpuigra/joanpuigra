@@ -1,7 +1,5 @@
 # Full-Stack Developer
-Interested in development with **Python**, **Javascript** and **Swift** but i can adapt to any language. I'm really curious about **Artificial Intelligence** and **Game Development**.
-
-Worked with **Stable Diffusion** to generate "art".
+<!-- Interested in development with **Python**, **Javascript** and **Swift** but i can adapt to any language. I'm really curious about **Artificial Intelligence** and **Game Development**. -->
 
 # 📚 Knowledge
 ## 🐍 Languages
