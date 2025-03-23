@@ -1,5 +1,5 @@
 # Full-Stack Developer
-## This page needs a **rework**, doing that after ending my studies. Doing a master on **videogame development**.
+> This page needs a **rework**, doing that after ending my studies. Doing a master on **videogame development**.
 
 # 📚 Knowledge
 ## 🐍 Languages
